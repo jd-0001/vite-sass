@@ -1,0 +1,5 @@
+// This file is imported before vuetify.scss so it will be discarded.
+@use 'vuetify/styles' with (
+  $font-size-root: 24px,
+  $border-radius-root: 1rem,
+);

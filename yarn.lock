@@ -837,10 +837,10 @@ vuetify-loader@^2.0.0-alpha.0:
     querystring "^0.2.1"
     upath "^2.0.1"
 
-vuetify@^3.0.0-beta.0:
-  version "3.0.0-beta.1"
-  resolved "https://registry.npmmirror.com/vuetify/-/vuetify-3.0.0-beta.1.tgz#8e3e4e41e00f1f6e00cb0a22b6a8f528581ca3f1"
-  integrity sha512-698CB/Xlvxku2Tm4AsFrmQ7LzMXOjleX7A5tbyQTnhPyt0NI1OTkf5zJUoXL3TNi2TN7DglN+adI6AE69e6CeQ==
+"vuetify@npm:@vuetify/nightly@next":
+  version "3.0.0-next-20220419.0"
+  resolved "https://registry.yarnpkg.com/@vuetify/nightly/-/nightly-3.0.0-next-20220419.0.tgz#4ad519eb61721f89b734a4c334a45b40b665ebbb"
+  integrity sha512-BqgKBxmgtOyA4LByRIQIpSfYyM5GQq2I3+hjkrP2NbZ0n1rSDlov4YRmauqLzII9ys0Lxi0HXwu7dXLEHJkHBQ==
 
 webfontloader@^1.0.0:
   version "1.6.28"

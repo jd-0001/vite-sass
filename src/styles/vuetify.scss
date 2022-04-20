@@ -1,0 +1,5 @@
+// This file is imported after main.scss so this will be used.
+@use 'vuetify/styles' with (
+  $border-radius-root: 4rem,
+//   $font-size-root: 14px
+);
